@@ -16,7 +16,7 @@ public class payload {
 				+ "  \"address\": \"RANA House Dijkot Faisalabad\",\r\n"
 				+ "  \"types\": [\r\n"
 				+ "    \"Civl Hospital Road\",\r\n"
-				+ "    \"Home\"\r\n"
+				+ "    \"Home address\"\r\n"
 				+ "  ],\r\n"
 				+ "  \"website\": \"http://google.com\",\r\n"
 				+ "  \"language\": \"Punjabi\"\r\n"
