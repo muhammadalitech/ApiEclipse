@@ -11,7 +11,7 @@ public class payload {
 				+ "    \"lng\": 33.427362\r\n"
 				+ "  },\r\n"
 				+ "  \"accuracy\": 50,\r\n"
-				+ "  \"name\": \"Rana Muhammad ali home\",\r\n"
+				+ "  \"name\": \"Rana Muhammad home\",\r\n"
 				+ "  \"phone_number\": \"030344222283\",\r\n"
 				+ "  \"address\": \"RANA House Faisalabad\",\r\n"
 				+ "  \"types\": [\r\n"
